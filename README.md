@@ -10,4 +10,8 @@ A basic text editor made in java
 <h2> some inside pictures of the editor 
 
 <img src = "Screenshots/fileopening.png" >
+
+
+
+<img src = "Screenshots/searchkeyword.png" >
 </h2>
