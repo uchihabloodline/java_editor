@@ -7,11 +7,12 @@ A basic text editor made in java
 
 <p> NOTE:- icons, menubar code, opening file code were copied from web.. <h3>stackoverflow..</h3> </p>
 
-<h2> some inside pictures of the editor 
+<h2> some inside pictures of the editor </h2>
 
+
+<p> fileopening in the editor</p>
 <img src = "Screenshots/fileopening.png" >
 
 
-
+<p> search dialog box  in the editor
 <img src = "Screenshots/searchkeyword.png" >
-</h2>
